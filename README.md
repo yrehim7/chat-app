@@ -1,6 +1,6 @@
-# flutter_application_1
+# Chat App with Flutter
 
-A new Flutter project.
+I created this Aop for Mobile Computing Majore on my Study, in this tutorial you gonna build a flutter app in real time using firebase Tool. 
 
 ## Getting Started
 
